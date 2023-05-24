@@ -3,7 +3,5 @@ response_schema = {
     "properties": {
         "id": {"type": "integer"},
         "title": {"type": "string"},
-        "position": {"type": "string"}
     },
-    "required": ["id"]
 }

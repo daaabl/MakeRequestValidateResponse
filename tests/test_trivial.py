@@ -1,5 +1,3 @@
-from config import URL
-import requests
 from messages import Error_Messages
 from schema import response_schema
 from jsonschema import validate
